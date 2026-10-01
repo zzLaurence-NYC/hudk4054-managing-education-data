@@ -1,0 +1,18 @@
+﻿variable,dtype,physical_blanks,pandas_missing,missing_pct,unique_nonmissing,observed_min,observed_max,noninteger_count,whitespace_only,categories
+Student ID,object,0,0,0.0,128,,,,0,
+Course,object,0,0,0.0,4,,,,0,Systems Engineering; Electronic Engineering; Processes Engineering; Environmental Engineering
+Week,int64,0,0,0.0,16,1,16,0,0,
+Attendance,int64,0,0,0.0,2,0,1,0,0,
+AI Access,int64,0,0,0.0,2,0,1,0,0,
+Activity Type,object,0,0,0.0,4,,,,0,Case Study Analysis; Engineering Design Report; Multi-Step Engineering Problem-Solving; Experimental Data Analysis
+AI Query Count,int64,0,0,0.0,38,0,38,0,0,
+AI Response Reliance Score,float64,1112,1112,54.3,95,0.0,100.0,0,0,
+Assignment Score,float64,182,182,8.89,17,20.0,100.0,0,0,
+AI Query Depth & Structure Score,int64,0,0,0.0,76,0,100,0,0,
+AI Query Efficiency Score,int64,0,0,0.0,29,0,50,0,0,
+Prompt Refinement Depth Score,float64,1112,1112,54.3,67,11.0,81.0,0,0,
+AI Response Complexity Score,float64,1112,1112,54.3,83,10.0,94.0,0,0,
+AI Response Utility Score,int64,0,0,0.0,60,0,100,0,0,
+AI-Driven Problem-Solving Score,int64,0,0,0.0,58,0,76,0,0,
+Structural Complexity Score,float64,182,182,8.89,61,30.0,90.0,0,0,
+Content Richness Score,float64,182,182,8.89,61,29.0,90.0,0,0,

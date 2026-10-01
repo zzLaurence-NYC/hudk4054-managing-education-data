@@ -1,0 +1,17 @@
+{
+  "documentation_date": "2026-10-01",
+  "source_filename": "An Empirical Study of ChatGPT-4o Use in Engineering Education Prompting and Performance.xlsx",
+  "source_size_bytes": 146887,
+  "source_doi": "10.5281/zenodo.15871671",
+  "md5": "cc90ed86843cff4eb8ab71760e049802",
+  "sha256": "211180bb7fafc24ae4857478465ebb7d5374e7c3a24fb9b45c5247dc68d19413",
+  "original_audit_sha256_before": "211180bb7fafc24ae4857478465ebb7d5374e7c3a24fb9b45c5247dc68d19413",
+  "original_audit_sha256_after": "211180bb7fafc24ae4857478465ebb7d5374e7c3a24fb9b45c5247dc68d19413",
+  "source_modified": false,
+  "dataset_license_from_zenodo_api": "cc-by-4.0",
+  "metadata_url": "https://zenodo.org/api/records/15871671",
+  "inspected_code_revision": "55bc4b2fc64cc946192a6c67e384c5c4c99e8350",
+  "code_revision_date": "2025-10-14",
+  "release_pipeline_equivalence": "Not established",
+  "dictionary_variables": 17
+}

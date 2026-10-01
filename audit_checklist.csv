@@ -1,0 +1,26 @@
+﻿check,count,interpretation
+Rows,2048,"Student-week records, including absent weeks"
+Students,128,Distinct identifiers
+Exact duplicate excess rows,0,Do not delete automatically
+Student-week duplicate excess rows,0,Candidate key test
+Students without all 16 weeks,0,Coverage test
+Students mapped to multiple courses,0,Identifier consistency
+Attendance invalid codes,0,Documented binary coding
+AI Access invalid codes,0,Documented binary coding
+Week invalid,0,Documented semester weeks
+Assignment outside 0-100,0,Documented grade scale
+Assignment Score missingness differs from absence,0,"Association, not proof of missingness mechanism"
+Structural Complexity Score missingness differs from absence,0,"Association, not proof of missingness mechanism"
+Content Richness Score missingness differs from absence,0,"Association, not proof of missingness mechanism"
+AI Response Reliance Score missingness differs from no access,0,Structural missingness candidate; confirm with documentation
+Prompt Refinement Depth Score missingness differs from no access,0,Structural missingness candidate; confirm with documentation
+AI Response Complexity Score missingness differs from no access,0,Structural missingness candidate; confirm with documentation
+AI Query Depth & Structure Score nonzero without access,0,Zero may be export placeholder
+AI Query Efficiency Score nonzero without access,0,Zero may be export placeholder
+AI Response Utility Score nonzero without access,0,Zero may be export placeholder
+AI-Driven Problem-Solving Score nonzero without access,0,Zero may be export placeholder
+Queries without AI access,20,"Needs source/log verification, not automatic correction"
+Queries while absent,4,Subset of access inconsistencies
+QE exact matches using exported inputs,107,"107/936; formula diagnostic, not full pipeline reproduction"
+QE differences greater than 0.5,31,31/936; unresolved input precision or code-version issue
+Full metric pipeline verification,,Not completed: raw texts and intermediate component scores unavailable

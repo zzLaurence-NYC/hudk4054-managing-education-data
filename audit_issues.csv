@@ -1,0 +1,56 @@
+﻿sheet,excel_row,check,status
+Sheet1,81,Positive query count without access,Needs source verification
+Sheet1,340,Positive query count without access,Needs source verification
+Sheet1,462,Positive query count without access,Needs source verification
+Sheet1,522,Positive query count without access,Needs source verification
+Sheet1,556,Positive query count without access,Needs source verification
+Sheet1,625,Positive query count without access,Needs source verification
+Sheet1,841,Positive query count without access,Needs source verification
+Sheet1,857,Positive query count without access,Needs source verification
+Sheet1,861,Positive query count without access,Needs source verification
+Sheet1,916,Positive query count without access,Needs source verification
+Sheet1,934,Positive query count without access,Needs source verification
+Sheet1,1029,Positive query count without access,Needs source verification
+Sheet1,1035,Positive query count without access,Needs source verification
+Sheet1,1074,Positive query count without access,Needs source verification
+Sheet1,1236,Positive query count without access,Needs source verification
+Sheet1,1605,Positive query count without access,Needs source verification
+Sheet1,1631,Positive query count without access,Needs source verification
+Sheet1,1637,Positive query count without access,Needs source verification
+Sheet1,1705,Positive query count without access,Needs source verification
+Sheet1,1769,Positive query count without access,Needs source verification
+Sheet1,625,Positive query count while absent,Subset of access inconsistencies
+Sheet1,857,Positive query count while absent,Subset of access inconsistencies
+Sheet1,1035,Positive query count while absent,Subset of access inconsistencies
+Sheet1,1074,Positive query count while absent,Subset of access inconsistencies
+Sheet1,79,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,89,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,101,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,128,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,129,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,149,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,208,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,261,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,322,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,356,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,440,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,549,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,578,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,690,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,696,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,760,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,776,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,804,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,891,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,979,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,1106,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,1110,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,1209,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,1302,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,1497,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,1676,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,1774,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,1812,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,1838,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,1952,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
+Sheet1,1963,QE differs from exported QD/count by >0.5,Version/rounding diagnostic; not proof of error
